@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/music-player-with-lyrics/static/css/main.5a66fd6e.css",
+    "main.js": "/music-player-with-lyrics/static/js/main.65a5bd26.js",
+    "reactPlayerYouTube.js": "/music-player-with-lyrics/static/js/reactPlayerYouTube.d670fbd9.chunk.js",
+    "reactPlayerSoundCloud.js": "/music-player-with-lyrics/static/js/reactPlayerSoundCloud.00614252.chunk.js",
+    "reactPlayerVimeo.js": "/music-player-with-lyrics/static/js/reactPlayerVimeo.73fcc16f.chunk.js",
+    "reactPlayerFacebook.js": "/music-player-with-lyrics/static/js/reactPlayerFacebook.bf12f129.chunk.js",
+    "reactPlayerStreamable.js": "/music-player-with-lyrics/static/js/reactPlayerStreamable.ed574488.chunk.js",
+    "reactPlayerWistia.js": "/music-player-with-lyrics/static/js/reactPlayerWistia.dfb800d9.chunk.js",
+    "reactPlayerTwitch.js": "/music-player-with-lyrics/static/js/reactPlayerTwitch.b9f7478d.chunk.js",
+    "reactPlayerDailyMotion.js": "/music-player-with-lyrics/static/js/reactPlayerDailyMotion.98344e16.chunk.js",
+    "reactPlayerMixcloud.js": "/music-player-with-lyrics/static/js/reactPlayerMixcloud.59e8bac4.chunk.js",
+    "reactPlayerVidyard.js": "/music-player-with-lyrics/static/js/reactPlayerVidyard.dfc71a88.chunk.js",
+    "reactPlayerKaltura.js": "/music-player-with-lyrics/static/js/reactPlayerKaltura.054d104f.chunk.js",
+    "reactPlayerFilePlayer.js": "/music-player-with-lyrics/static/js/reactPlayerFilePlayer.39d6e89f.chunk.js",
+    "reactPlayerPreview.js": "/music-player-with-lyrics/static/js/reactPlayerPreview.35f06620.chunk.js",
+    "static/js/787.584d4d9b.chunk.js": "/music-player-with-lyrics/static/js/787.584d4d9b.chunk.js",
+    "static/media/underflow.mp3": "/music-player-with-lyrics/static/media/underflow.abcc499eb7600d31a20f.mp3",
+    "static/media/env.hdr": "/music-player-with-lyrics/static/media/env.d1f8cf8b5319c5bb0171.hdr",
+    "index.html": "/music-player-with-lyrics/index.html",
+    "main.5a66fd6e.css.map": "/music-player-with-lyrics/static/css/main.5a66fd6e.css.map",
+    "main.65a5bd26.js.map": "/music-player-with-lyrics/static/js/main.65a5bd26.js.map",
+    "reactPlayerYouTube.d670fbd9.chunk.js.map": "/music-player-with-lyrics/static/js/reactPlayerYouTube.d670fbd9.chunk.js.map",
+    "reactPlayerSoundCloud.00614252.chunk.js.map": "/music-player-with-lyrics/static/js/reactPlayerSoundCloud.00614252.chunk.js.map",
+    "reactPlayerVimeo.73fcc16f.chunk.js.map": "/music-player-with-lyrics/static/js/reactPlayerVimeo.73fcc16f.chunk.js.map",
+    "reactPlayerFacebook.bf12f129.chunk.js.map": "/music-player-with-lyrics/static/js/reactPlayerFacebook.bf12f129.chunk.js.map",
+    "reactPlayerStreamable.ed574488.chunk.js.map": "/music-player-with-lyrics/static/js/reactPlayerStreamable.ed574488.chunk.js.map",
+    "reactPlayerWistia.dfb800d9.chunk.js.map": "/music-player-with-lyrics/static/js/reactPlayerWistia.dfb800d9.chunk.js.map",
+    "reactPlayerTwitch.b9f7478d.chunk.js.map": "/music-player-with-lyrics/static/js/reactPlayerTwitch.b9f7478d.chunk.js.map",
+    "reactPlayerDailyMotion.98344e16.chunk.js.map": "/music-player-with-lyrics/static/js/reactPlayerDailyMotion.98344e16.chunk.js.map",
+    "reactPlayerMixcloud.59e8bac4.chunk.js.map": "/music-player-with-lyrics/static/js/reactPlayerMixcloud.59e8bac4.chunk.js.map",
+    "reactPlayerVidyard.dfc71a88.chunk.js.map": "/music-player-with-lyrics/static/js/reactPlayerVidyard.dfc71a88.chunk.js.map",
+    "reactPlayerKaltura.054d104f.chunk.js.map": "/music-player-with-lyrics/static/js/reactPlayerKaltura.054d104f.chunk.js.map",
+    "reactPlayerFilePlayer.39d6e89f.chunk.js.map": "/music-player-with-lyrics/static/js/reactPlayerFilePlayer.39d6e89f.chunk.js.map",
+    "reactPlayerPreview.35f06620.chunk.js.map": "/music-player-with-lyrics/static/js/reactPlayerPreview.35f06620.chunk.js.map",
+    "787.584d4d9b.chunk.js.map": "/music-player-with-lyrics/static/js/787.584d4d9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a66fd6e.css",
+    "static/js/main.65a5bd26.js"
+  ]
+}
