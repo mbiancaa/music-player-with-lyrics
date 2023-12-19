@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/music-player-with-lyrics/static/css/main.62a1ff49.css",
+    "main.css": "/music-player-with-lyrics/static/css/main.e6e5c973.css",
     "main.js": "/music-player-with-lyrics/static/js/main.ee067138.js",
     "reactPlayerYouTube.js": "/music-player-with-lyrics/static/js/reactPlayerYouTube.d670fbd9.chunk.js",
     "reactPlayerSoundCloud.js": "/music-player-with-lyrics/static/js/reactPlayerSoundCloud.00614252.chunk.js",
@@ -19,7 +19,7 @@
     "static/media/underflow.mp3": "/music-player-with-lyrics/static/media/underflow.abcc499eb7600d31a20f.mp3",
     "static/media/env.hdr": "/music-player-with-lyrics/static/media/env.d1f8cf8b5319c5bb0171.hdr",
     "index.html": "/music-player-with-lyrics/index.html",
-    "main.62a1ff49.css.map": "/music-player-with-lyrics/static/css/main.62a1ff49.css.map",
+    "main.e6e5c973.css.map": "/music-player-with-lyrics/static/css/main.e6e5c973.css.map",
     "main.ee067138.js.map": "/music-player-with-lyrics/static/js/main.ee067138.js.map",
     "reactPlayerYouTube.d670fbd9.chunk.js.map": "/music-player-with-lyrics/static/js/reactPlayerYouTube.d670fbd9.chunk.js.map",
     "reactPlayerSoundCloud.00614252.chunk.js.map": "/music-player-with-lyrics/static/js/reactPlayerSoundCloud.00614252.chunk.js.map",
@@ -37,7 +37,7 @@
     "787.584d4d9b.chunk.js.map": "/music-player-with-lyrics/static/js/787.584d4d9b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.62a1ff49.css",
+    "static/css/main.e6e5c973.css",
     "static/js/main.ee067138.js"
   ]
 }
