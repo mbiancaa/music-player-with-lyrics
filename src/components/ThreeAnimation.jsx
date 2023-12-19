@@ -26,7 +26,7 @@ export default function ThreeAnimation() {
 
         function init() {
 
-            camera = new THREE.PerspectiveCamera(60, window.innerWidth / window.innerHeight, 100, 10000);
+            camera = new THREE.PerspectiveCamera(60, window.innerWidth / window.innerHeight, 100, 100000);
             camera.position.z = 3200;
 
             scene = new THREE.Scene();
@@ -70,8 +70,7 @@ export default function ThreeAnimation() {
                 metalness: 1
             });
 
-            for (let i = 0; i < 40; i++) {
-
+            for (let i = 0; i < 120; i++) {
                 const mesh = new THREE.Mesh(geometry, material);
                 mesh.position.x = Math.random() * 10000 - 5000;
                 mesh.position.y = Math.random() * 10000 - 5000;

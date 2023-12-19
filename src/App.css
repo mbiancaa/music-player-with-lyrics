@@ -17,11 +17,12 @@
   font-weight: 900;
   font-size: 4.5em;
   color: #fff;
+  text-shadow: 2px 2px 4px black;
 }
 
 .MusicPlayerContainer {
   position: absolute;
-  bottom: 25px;
+  bottom: 5vh;
   left: 50%;
   transform: translateX(-50%);
 }
@@ -33,6 +34,50 @@
   z-index: 1;
 }
 
+.GlassEffect {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  color: #fff;
+}
+
+.InfoButton {
+  position: absolute;
+  z-index: 9;
+  top: 20px;
+  right: 20px;
+  border-width: 2px;
+  border-radius: 50%;
+  height: 25px;
+  width: 25px;
+  cursor: pointer;
+}
+
+.InfoButton:after {
+  content: '!';
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%) rotate(180deg);
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.InfoPopup {
+  width: 260px;
+  max-width: calc(100vw - 20px);
+  right: 20px;
+  position: absolute;
+  top: 60px;
+  border-radius: 12px;
+  padding: 5px 15px;
+  text-align: left;
+  font-size: 15px;
+  line-height: 20px;
+  z-index: 9;
+}
 
 @media (max-width: 550px) {
 
@@ -47,6 +92,16 @@
 
   .MusicPlayerContainer > div {
     max-width: calc(100vw - 80px);
+  }
+
+  .InfoButton {
+    top: 10px;
+    right: 10px;
+  }
+
+  .InfoPopup {
+    top: 50px;
+    right: 10px;
   }
 
 }
