@@ -22,7 +22,7 @@
 
 .MusicPlayerContainer {
   position: absolute;
-  bottom: calc(5vh + env(safe-area-inset-bottom));
+  bottom: calc(5dvh + env(safe-area-inset-bottom));
   left: 50%;
   transform: translateX(-50%);
 }
